@@ -1,0 +1,92 @@
+{
+    "shoppingList": [
+
+        {
+            "Serial Number": "1",
+            "Name": "Rice",
+            "Quantity": "2",
+            "Unit": "kg",
+            "Department": "Grocery",
+            "Notes": "Basmati"
+        },
+        {
+            "Serial Number": "2",
+            "Name": "Tea",
+            "Quantity": "500",
+            "Unit": "g",
+            "Department": "Grocery",
+            "Notes": "AVT"
+        },
+        {
+            "Serial Number": "3",
+            "Name": "Urad dal",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department": "Grocery",
+            "Notes": "Split"
+        },
+        {
+            "Serial Number": "4",
+            "Name": "Biscuits",
+            "Quantity": "200",
+            "Unit": "g",
+            "Department": "Snacks",
+            "Notes": "Digestive"
+        },
+        {
+            "Serial Number": "5",
+            "Name": "Tomatoes",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department": "Vegetables",
+            "Notes": "Ripe"
+        },
+        {
+            "Serial Number": "6",
+            "Name": "Cabbage",
+            "Quantity": "3",
+            "Unit": "N/A",
+            "Department": "Vegetables",
+            "Notes": "None"
+        },
+        {
+            "Serial Number": "7",
+            "Name": "Potatoes",
+            "Quantity": "1.5",
+            "Unit": "kg",
+            "Department": "Vegetables",
+            "Notes": "Medium size"
+        },
+        {
+            "Serial Number": "8",
+            "Name": "Bananas",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department": "Fruits",
+            "Notes": "Rasagadali"
+        },
+        {
+            "Serial Number": "9",
+            "Name": "Incense sticks",
+            "Quantity": "3",
+            "Unit": "packets",
+            "Department": "Home essentials",
+            "Notes": "Cycle 3in1"
+        },
+        {
+            "Serial Number": "10",
+            "Name": "Soap",
+            "Quantity": "500",
+            "Unit": "g",
+            "Department": "Bath items",
+            "Notes": "Pears"
+        }
+
+    ]
+
+    
+
+
+
+
+}

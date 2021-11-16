@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://th.bing.com/th/id/R.3b673c544a46b9306c29e0c92414d219?rik=3D1URowPoYbkKQ&riu=http%3a%2f%2ffiles.qatarliving.com%2fstyles%2fhorizontal_large%2fs3%2fpost%2f2020%2f03%2f29%2fgrocery-shopping-covid19-qatar-living.jpg%3fitok%3d1-zIqR-I&ehk=3WUcjzrx3zhj%2buu7YKKpFkV%2bZClbG3pYR5ERMjMU%2f3I%3d&risl=&pid=ImgRaw&r=0);
+}
+
+th, td, p, input {
+    font:14px Verdana;
+}
+
+table, th, td {
+    border: solid 1px #DDD;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+}
+
+th {
+    font-weight:bold;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+#btn {
+    position: relative;
+    left: 15rem;
+}
+
+#showData {
+    margin: 10% auto;
+    width: 50%;
+}
